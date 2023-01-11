@@ -17,6 +17,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>Spring-Core</module>
+        <module>Spring-Boot</module>
     </modules>
 
     <properties>
